@@ -48,7 +48,7 @@ Sem respeito, torna-se impossível construir um ambiente propício para o nosso 
 
 **Cuide de sua escola!**
 
-## Capítulo 3: Guia Prático para Iniciar Conversas e Fazer Amizades
+## Capítulo 3 - Guia Prático para Iniciar Conversas e Fazer Amizades
 
 1. **Comece com o básico**
    Cumprimente a pessoa que você deseja conversar e pergunte o nome dela.
@@ -76,3 +76,30 @@ Sem respeito, torna-se impossível construir um ambiente propício para o nosso 
    - "Quer fazer dupla no trabalho?"
 
    Esses convites simples costumam quebrar o gelo.
+
+## Capítulo 4: Conselhos de um Veterano para Quem Está Chegando
+
+Se você está lendo isso, provavelmente é um calouro prestes a começar o 1º ano técnico na ETEC. Respira fundo — vai dar certo. Aqui vão alguns conselhos de quem já passou por isso:
+
+1. **Não tenha medo de perguntar**
+   Todo mundo chegou perdido um dia. Perguntar não é vergonha, é inteligência. Seja sobre matéria, localização da sala ou como funciona o laboratório — sempre pergunte.
+
+2. **Organização é meio caminho andado**
+   Use o Google Sala de Aula, caderno, agenda ou aplicativo. Anote tudo: prazos de trabalhos, datas de prova, conteúdo de cada matéria. Você vai me agradecer em novembro.
+
+3. **Faça amizades desde o primeiro dia**
+   O técnico são 3 anos juntos. Ter um grupo para trocar ideias, matérias e até desabafar faz toda a diferença. Não fique na sua — puxe assunto.
+
+4. **Git e GitHub não são opcionais**
+   Pode parecer complicado no começo, mas aprender Git desde já vai salvar sua vida nos projetos em grupo. Pratique bastante.
+
+5. **Não acumule matéria**
+   Se ficou com dúvida, resolva na semana. Deixar para estudar tudo na véspera da prova é o caminho mais curto para a recuperação.
+
+6. **Aproveite os eventos da escola**
+   Feira tecnológica, visitas técnicas, campeonatos, palestras. Participar dessas coisas enriquece muito mais que só a sala de aula.
+
+7. **Cuide da sua saúde mental**
+   Pausas são necessárias. Dormir bem, comer direito e ter momentos de lazer não é perder tempo — é garantir que você aguente o ritmo até o fim do ano.
+
+> **Lembre-se:** Todo veterano já foi calouro. A ETEC assusta no começo, mas com organização e boas companhias, você passa por ela com notas boas e boas amizades. Bem-vindo!
