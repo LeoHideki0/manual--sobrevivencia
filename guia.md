@@ -1,6 +1,6 @@
 # Manual de Sobrevivência do 1º Ano Técnico
 
-        ## CAPÍTULO 1 – Como Passar em Todas as Matérias com Notas Boas na ETEC
+## CAPÍTULO 1 – Como Passar em Todas as Matérias com Notas Boas na ETEC
 
 Para que você sobreviva às matérias da Etec, é necessário que você siga os seguintes passos:
 
@@ -48,7 +48,7 @@ Sem respeito, torna-se impossível construir um ambiente propício para o nosso 
 
 **Cuide de sua escola!**
 
-## Capítulo 3: Guia Prático para Iniciar Conversas e Fazer Amizades
+## CAPÍTULO 3 - Guia Prático para Iniciar Conversas e Fazer Amizades
 
 1. **Comece com o básico**
    Cumprimente a pessoa que você deseja conversar e pergunte o nome dela.
