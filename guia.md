@@ -48,8 +48,7 @@ Sem respeito, torna-se impossível construir um ambiente propício para o nosso 
 
 **Cuide de sua escola!**
 
-## CAPÍTULO 3 - Guia Prático para Iniciar Conversas e Fazer Amizades
->>>>>>> feature/guia-conselhos
+## Capítulo 3: Guia Prático para Iniciar Conversas e Fazer Amizades
 
 1. **Comece com o básico**
    Cumprimente a pessoa que você deseja conversar e pergunte o nome dela.
@@ -79,7 +78,6 @@ Sem respeito, torna-se impossível construir um ambiente propício para o nosso 
    Esses convites simples costumam quebrar o gelo.
 
 ## CAPÍTULO 4 - Conselhos de um Veterano para Quem Está Chegando
->>>>>>> feature/guia-conselhos
 
 Se você está lendo isso, provavelmente é um calouro prestes a começar o 1º ano técnico na ETEC. Respira fundo — vai dar certo. Aqui vão alguns conselhos de quem já passou por isso:
 
