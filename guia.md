@@ -19,3 +19,33 @@ Para que você sobreviva às matérias da Etec, é necessário que você siga os
 Ao prestar atenção e tirar todas as dúvidas, você elimina uma grande parte do estudo para as provas, pois não terá muitas dúvidas ao estudar mais tarde. E ao estudar 1h todos os dias, você estará com tudo fresco na memória caso tenha alguma atividade ou prova.
 
 > **Resultado:** Caso você siga todos esses passos, você terá notas altas na Etec e passará de ano com tranquilidade!
+
+
+# Cuidados que Devemos Ter na ETEC
+
+Em nossa escola, temos aulas muito boas e equipamentos do bom e do melhor. Por isso, devemos ter alguns cuidados fundamentais.
+
+## 1. Cuidado com o Tempo
+Devemos ter muito cuidado com a gestão do tempo, pois a falta de pontualidade traz consequências:
+* **Atrasos:** Podemos chegar atrasados e perder o conteúdo das explicações.
+* **Perda de aulas:** Risco de perder aulas importantes e essenciais para o andamento do curso.
+* **Prazos de trabalhos:** Em relação às atividades e trabalhos, se ficarmos fora do prazo, perderemos a nota.
+
+## 2. Cuidado com os Equipamentos
+Devemos zelar pelos nossos equipamentos, pois são eles que viabilizam a realização dos vários tipos de aulas práticas:
+* **Tecnologia e Ciência:** Computadores específicos do curso, equipamentos científicos e outros materiais exigem grande responsabilidade e cuidado no manuseio.
+
+## 3. Cuidado com o Ambiente
+Cuidar do espaço escolar vai muito além de preservar as carteiras e as paredes:
+* **Convivência:** Precisamos cultivar o respeito mútuo para manter um ambiente escolar agradável.
+* **Colaboração:** É fundamental ajudar uns aos outros e respeitar os professores.
+
+## 4. Cuidado e Respeito
+Sem respeito, torna-se impossível construir um ambiente propício para o nosso aprendizado:
+* **Combate ao Bullying:** Junto com a falta de respeito, encontramos um dos piores problemas do mundo: o *bullying*. É dever de todos evitar esse comportamento para garantir um ambiente de estudos saudável e acolhedor.
+
+---
+
+*Este foi um breve resumo dos cuidados que devemos praticar no nosso dia a dia escolar.*
+
+**Cuide de sua escola!**
