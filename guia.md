@@ -44,7 +44,35 @@ Sem respeito, torna-se impossível construir um ambiente propício para o nosso 
 * **Combate ao Bullying:** Junto com a falta de respeito, encontramos um dos piores problemas do mundo: o *bullying*. É dever de todos evitar esse comportamento para garantir um ambiente de estudos saudável e acolhedor.
 
 ---
-
 *Este foi um breve resumo dos cuidados que devemos praticar no nosso dia a dia escolar.*
 
 **Cuide de sua escola!**
+
+## Capítulo 3: Guia Prático para Iniciar Conversas e Fazer Amizades
+
+1. **Comece com o básico**
+   Cumprimente a pessoa que você deseja conversar e pergunte o nome dela.
+
+2. **Não force amizade**
+   - Pergunte algo simples, como sobre a aula ou algo que aconteceu na hora. Conversa boa acontece naturalmente.
+   - Se a pessoa não demonstrar interesse, tudo bem. Converse com outra.
+
+3. **Seja você mesmo**
+   Não finja gostar de algo só para agradar alguém.
+
+4. **Entre nas conversas com respeito**
+   Espere o momento certo para falar, não interrompa ninguém e nem tente ser o centro das atenções.
+
+5. **Escute mais do que fala**
+   Faça perguntas e demonstre interesse no que a outra pessoa está dizendo.
+
+6. **Evite essas situações**
+   - Forçar piadas toda hora.
+   - Falar mal de pessoas.
+   - Insistir quando a pessoa claramente não quer conversar.
+
+7. **Convites simples**
+   - "Vamos no shopping depois da escola?"
+   - "Quer fazer dupla no trabalho?"
+
+   Esses convites simples costumam quebrar o gelo.
