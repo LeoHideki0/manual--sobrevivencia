@@ -20,7 +20,7 @@ Ao prestar atenção e tirar todas as dúvidas, você elimina uma grande parte d
 
 > **Resultado:** Caso você siga todos esses passos, você terá notas altas na Etec e passará de ano com tranquilidade!
 
-
+## CAPÍTULO 2 - Cuidados na ETEC
 # Cuidados que Devemos Ter na ETEC
 
 Em nossa escola, temos aulas muito boas e equipamentos do bom e do melhor. Por isso, devemos ter alguns cuidados fundamentais.
